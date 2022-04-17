@@ -106,6 +106,10 @@ node cinema.js
 
 Instalar o pacote _nodemon_ como dependência de desenvolvimento.
 
+```sh
+npm i --save -D nodemon
+```
+
 **Etapa 05**
 
 Analisar a pasta _node\_modules_.

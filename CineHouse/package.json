@@ -1,0 +1,15 @@
+{
+  "name": "cinehouse",
+  "version": "0.1.0",
+  "description": "Prática CineHouse - Módulo 02 - Introdução a Node e Javascript",
+  "main": "cinema.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "javascript"
+  ],
+  "author": "Marcelo Diament",
+  "license": "ISC"
+}

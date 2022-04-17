@@ -70,6 +70,14 @@ const cinema = "CineMarco"
 
 Executar `npm init` (na pasta CineHouse) e verificar as mudanças que ocorreram na pasta e arquivos novos adicionados ao projeto.
 
+_Executar o seguinte comando no terminal:_
+
+```sh
+cd CineHouse && npm init
+```
+
+_Responder às perguntas do diálogo no terminal conforme preferência._
+
 **Etapa 02**
 
 No arquivo _cinema.js_, passar a variável anteriormente criada como argumento do `console.log()` para visualizar o nome da loja no terminal ao executar o arquivo.

@@ -1,6 +1,7 @@
 # CineHouse
 
 ![Introdução a Node e Javascript](https://djament.com.br/assets/img/dh-m02-cover.png)
+
 ## Introdução
 
 A ideia é que o tema de prática seja continuado até pelo menos o fim das 4 aulas deste módulo. A ideia é desenvolver mais e mais funcionalidades do cinema atrelado ao conteúdo recebido (adicionando nas próximas aulas array, funções e afins).
@@ -13,13 +14,13 @@ O objetivo desta prática é que os alunos aprendam a iniciar um projeto node, e
 
 O que é necessário para acompanhar a prática?
 
-- Ter as ferramentas instaladas em ambiente local (node.js, npm, VSCode, gitBash)
+* Ter as ferramentas instaladas em ambiente local (node.js, npm, VSCode, gitBash)
 
-- Ter uma conta no gitHub (ou similar) para versionar o projeto
+* Ter uma conta no gitHub (ou similar) para versionar o projeto
 
-- Consumir o conteúdo do PlayGround
+* Consumir o conteúdo do PlayGround
 
-- Assistir as aulas síncronas
+* Assistir as aulas síncronas
 
 ## Enunciados
 
@@ -49,7 +50,19 @@ mkdir CineHouse
 
 **Etapa 03**
 
-Criar um arquivo chamado _cinema.js_. Nele, criar uma variável chamada `cinema`, que deverá receber o nome da loja (_string_).
+Criar um arquivo chamado _cinema.js_. Nele, criar uma variável chamada `cinema` , que deverá receber o nome da loja (_string_).
+
+_Criando (e abrindo) arquivo cinema.js:_
+
+```sh
+cd CineHouse && touch cinema.js && code cinema.js
+```
+
+_Criando a `const` cinema e atribuindo uma string a ela:_
+
+```js
+const cinema = "CineMarco"
+```
 
 #### Atividade 02
 

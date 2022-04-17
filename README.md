@@ -41,3 +41,25 @@ Criar pasta para o projeto, chamada CineHouse.
 **Etapa 03**
 
 Criar um arquivo chamado _cinema.js_. Nele, criar uma variável chamada `cinema`, que deverá receber o nome da loja (_string_).
+
+#### Atividade 02
+
+**Etapa 01**
+
+Executar `npm init` e verificar as mudanças que ocorreram na pasta e arquivos novos adicionados ao projeto.
+
+**Etapa 02**
+
+No arquivo _cinema.js_, passar a variável anteriormente criada como argumento do `console.log()` para visualizar o nome da loja no terminal ao executar o arquivo.
+
+**Etapa 03**
+
+Executar o arquivo _cinema.js_.
+
+**Etapa 04**
+
+Instalar o pacote _nodemon_.
+
+**Etapa 05**
+
+Analisar a pasta _node\_modules_.

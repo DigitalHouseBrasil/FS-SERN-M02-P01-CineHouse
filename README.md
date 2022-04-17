@@ -82,6 +82,10 @@ _Responder às perguntas do diálogo no terminal conforme preferência._
 
 No arquivo _cinema.js_, passar a variável anteriormente criada como argumento do `console.log()` para visualizar o nome da loja no terminal ao executar o arquivo.
 
+```js
+console.log(cinema)
+```
+
 **Etapa 03**
 
 Executar o arquivo _cinema.js_.

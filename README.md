@@ -104,7 +104,7 @@ node cinema.js
 
 **Etapa 04**
 
-Instalar o pacote _nodemon_.
+Instalar o pacote _nodemon_ como dependência de desenvolvimento.
 
 **Etapa 05**
 

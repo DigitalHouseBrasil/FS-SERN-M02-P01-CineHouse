@@ -11,5 +11,8 @@
     "javascript"
   ],
   "author": "Marcelo Diament",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
 }

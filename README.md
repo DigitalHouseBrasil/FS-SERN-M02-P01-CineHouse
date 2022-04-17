@@ -1,5 +1,6 @@
 # CineHouse
 
+![Introdução a Node e Javascript](https://djament.com.br/assets/img/dh-m02-cover.png)
 ## Introdução
 
 A ideia é que o tema de prática seja continuado até pelo menos o fim das 4 aulas deste módulo. A ideia é desenvolver mais e mais funcionalidades do cinema atrelado ao conteúdo recebido (adicionando nas próximas aulas array, funções e afins).

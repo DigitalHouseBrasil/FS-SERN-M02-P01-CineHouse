@@ -19,3 +19,25 @@ O que é necessário para acompanhar a prática?
 - Consumir o conteúdo do PlayGround
 
 - Assistir as aulas síncronas
+
+## Enunciados
+
+Replicação dos enunciados para facilitar a compreensão dos exercícios e respectivas resoluções.
+
+### Aula 01 | Introdução a NodeJS
+
+Atividades relacionadas a aula 01.
+
+#### Atividade 01
+
+**Etapa 01**
+
+No terminal, verificar se o node foi instalado.
+
+**Etapa 02**
+
+Criar pasta para o projeto, chamada CineHouse.
+
+**Etapa 03**
+
+Criar um arquivo chamado _cinema.js_. Nele, criar uma variável chamada `cinema`, que deverá receber o nome da loja (_string_).

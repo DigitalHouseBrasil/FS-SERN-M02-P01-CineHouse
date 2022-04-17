@@ -68,7 +68,7 @@ const cinema = "CineMarco"
 
 **Etapa 01**
 
-Executar `npm init` e verificar as mudanças que ocorreram na pasta e arquivos novos adicionados ao projeto.
+Executar `npm init` (na pasta CineHouse) e verificar as mudanças que ocorreram na pasta e arquivos novos adicionados ao projeto.
 
 **Etapa 02**
 

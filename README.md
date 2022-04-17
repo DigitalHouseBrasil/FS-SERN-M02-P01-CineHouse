@@ -35,6 +35,10 @@ Atividades relacionadas a aula 01.
 
 No terminal, verificar se o node foi instalado.
 
+```js
+node -v
+```
+
 **Etapa 02**
 
 Criar pasta para o projeto, chamada CineHouse.

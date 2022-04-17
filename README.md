@@ -90,6 +90,18 @@ console.log(cinema)
 
 Executar o arquivo _cinema.js_.
 
+_Se estiver na pasta raiz (no terminal), execute:_
+
+```sh
+cd CineHouse
+```
+
+_Dentro da pasta CineHouse, execute:_
+
+```sh
+node cinema.js
+```
+
 **Etapa 04**
 
 Instalar o pacote _nodemon_.

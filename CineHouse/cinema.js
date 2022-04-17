@@ -1,1 +1,3 @@
-const ciname = "CineMarco"
+const cinema = "CineMarco"
+
+console.log(cinema)

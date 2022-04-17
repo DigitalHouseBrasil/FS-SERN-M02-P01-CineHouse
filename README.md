@@ -113,3 +113,9 @@ npm i --save -D nodemon
 **Etapa 05**
 
 Analisar a pasta _node\_modules_.
+
+_Mostrar que apesar de instalarmos apenas uma dependência, essa possui suas próprias dependências._
+
+_Comentar que, como configuramos o .gitignore com o template node, a pasta node\_modules é ignorada pelo versionamento._
+
+_Explicar o por que de não precisarmos versionar essa pasta e como garantimos que todas as dependências serão instaladas com o `npm install`. Se possível, mostrar na prática._
